@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+    background-color: black;
+    overflow-x: hidden;
+}
+
+body img{
+    width: 100vw;
+}
+
+/* @media screen and (max-width : 600px){
+    body img{
+        width: 100vw;
+    }    
+}
+ */
